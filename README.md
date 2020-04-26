@@ -2,6 +2,12 @@
 
 Test whether a reddit post title is a verbatim quote from the linked page.
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ammaraskar/reddit-title-has-verbatim-quote/CI)
+![npm](https://img.shields.io/npm/v/reddit-title-has-verbatim-quote)
+![npm bundle size](https://img.shields.io/bundlephobia/min/reddit-title-has-verbatim-quote)
+![GitHub stars](https://img.shields.io/github/stars/ammaraskar/reddit-title-has-verbatim-quote?style=social)
+
+
 ## Installation
 
     $ npm install reddit-title-has-verbatim-quote
