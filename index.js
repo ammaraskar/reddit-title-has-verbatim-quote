@@ -3,6 +3,7 @@ const _ = require('lodash');
 const S = require('string');
 const parsePath = require("parse-path");
 
+
 function hasVerbatimQuote(redditPostURL) {
   const parsed = parsePath(redditPostURL);
 
@@ -28,6 +29,7 @@ function hasVerbatimQuote(redditPostURL) {
         });
     });
 }
+
 
 module.exports = hasVerbatimQuote;
 module.exports.default = hasVerbatimQuote;
