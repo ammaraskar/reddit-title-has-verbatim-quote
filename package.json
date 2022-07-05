@@ -19,7 +19,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "lodash": "^4.17.15",
-    "parse-path": "^4.0.1",
+    "parse-path": "^5.0.0",
     "string": "^3.3.3"
   },
   "devDependencies": {
